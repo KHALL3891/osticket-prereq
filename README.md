@@ -23,7 +23,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Virtual Machine using Ms Azure
 - Enable Internet Information Services
 - Install All Neccessary Files
-- Item 5
 
 <h2>Installation Steps</h2>
 
