@@ -47,6 +47,7 @@ Inside the control panel, go to Turn on/off windows features and download and in
 <img src="https://i.imgur.com/bVThI9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we installed all necessary files required to run and install the OsTicket software. Those files that we needed were the PHP Mananger, CGI,
+Here we installed all necessary files required to run and install the OsTicket software. Those files that we needed were the PHP Mananger, CGI, and 
+the URL Rewrite files.
 </p>
 <br />
