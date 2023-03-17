@@ -39,7 +39,7 @@ you will install and run your help desk ticketing system.
 <img src="https://i.imgur.com/ueXeJH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside the control panel, go to Turn on/off windows features and download and instal Internet Information Services and CGI.  
+Inside the control panel, go to Turn on/off windows features and download and install Internet Information Services and CGI.  
 </p>
 <br />
 
